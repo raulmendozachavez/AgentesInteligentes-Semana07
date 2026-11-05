@@ -6,8 +6,8 @@
 
 ## Integrantes
 
-- Mendoza Chávez, Raúl
-- Álvarez Paredes, José
+- Mendoza Chávez Raúl
+- Álvarez Paredes José
 
 ## Descripción
 
