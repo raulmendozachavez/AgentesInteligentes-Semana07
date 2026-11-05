@@ -1,4 +1,4 @@
-# Práctica de Laboratorio N° 05: Motor Agéntico ReAct
+# Práctica de Laboratorio: Motor Agéntico ReAct
 
 **Asignatura:** Agentes Inteligentes (VIII Ciclo)
 
