@@ -1,4 +1,6 @@
-# Práctica de Laboratorio N° 05: Motor Agéntico ReAct
+# Agentes Inteligentes - Semana 07
+
+Motor agéntico ReAct implementado en Python, sin frameworks de agentes, con herramientas de inventario y descuentos, autocorrección ante errores y parseo robusto con mecanismo failsafe.
 
 **Asignatura:** Agentes Inteligentes (VIII Ciclo)
 
@@ -11,7 +13,7 @@
 
 ## Descripción
 
-Este proyecto implementa, a bajo nivel y sin frameworks como LangChain o CrewAI, un motor agéntico basado en el paradigma **ReAct** (*Reasoning + Acting*). El agente utiliza un modelo de lenguaje de la API de Gemini para razonar, invocar herramientas de Python y corregirse ante errores.
+Este proyecto implementa, a bajo nivel y sin frameworks como LangChain o CrewAI, un motor agéntico basado en el paradigma **ReAct** (*Reasoning + Acting*). El agente utiliza un modelo de lenguaje para razonar y ejecutar herramientas, y recibe las observaciones del entorno para continuar el ciclo hasta generar una respuesta final.
 
 El ciclo implementado es:
 
