@@ -1,0 +1,17 @@
+# Claves y variables de entorno
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
