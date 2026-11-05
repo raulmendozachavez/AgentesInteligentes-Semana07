@@ -1,7 +1,7 @@
 # Práctica de Laboratorio N° 05: Motor Agéntico ReAct
 
 **Asignatura:** Agentes Inteligentes (VIII Ciclo)
-**Unidad II**
+
 **Universidad:** Universidad Nacional del Santa
 
 ## Integrantes
